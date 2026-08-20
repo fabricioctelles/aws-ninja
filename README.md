@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ninja.jpeg" alt="AWS Ninja" width="300"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:232F3E&height=200&section=header&text=AWS%20Ninja&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=217%2B%20Skills%20%E2%80%A2%2036%2B%20AI%20Agents%20%E2%80%A2%20One%20Router&descSize=20&descAlignY=55&descAlign=50"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:232F3E,100:FF9900&height=200&section=header&text=AWS%20Ninja&fontSize=80&fontColor=232F3E&animation=twinkling&fontAlignY=35&desc=217%2B%20Skills%20%E2%80%A2%2036%2B%20AI%20Agents%20%E2%80%A2%20One%20Router&descSize=20&descAlignY=55&descAlign=50"/>
